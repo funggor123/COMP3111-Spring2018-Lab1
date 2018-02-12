@@ -25,7 +25,7 @@ public class Lab1Activity {
 		}
 		return min;
 	}
-	
+	// Project setup
 	public static int maxNum(int[] arr) {
 		int max = arr[0];
 		for(int i=1;i<arr.length;i++) {
