@@ -7,6 +7,7 @@ public class Lab1Activity {
 		int sum = 0;
 		
 		// Write your code here..
+		// Add 10 numbers //
 		for (int i=0;i<arr.length;i++) {
 			sum +=arr[i];
 		}
